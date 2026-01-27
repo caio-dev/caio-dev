@@ -5,6 +5,13 @@
 - ⚡ Tenho sede de resolver problemas, e muito mais de evita-los.
 - ☕ Adoro café, música e piadas de tiozão! (Vou ser o tio do pavê)
 
+Veja alguns dashboards de exemplo:
+
+https://app.powerbi.com/view?r=eyJrIjoiYTAwNTlhNDktOGZmYi00MTJhLTg3OWEtM2Y3ZGE0YWViM2QwIiwidCI6IjlkOGQ0NTdmLWJkNTYtNGZkZS1iNjFkLWRlNDU3YTg3ZGEzMCJ9
+
+https://app.powerbi.com/view?r=eyJrIjoiYzk2NzkwMDMtYmY3NC00ZGJiLWI4ODQtZGU0NjczOWQ1Mzc1IiwidCI6IjlkOGQ0NTdmLWJkNTYtNGZkZS1iNjFkLWRlNDU3YTg3ZGEzMCJ9
+
+
 ##
 
 <div align="center">
