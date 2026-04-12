@@ -1,7 +1,6 @@
 ### Olá viajante! Eu sou o Caio César 😁
 
-- 🎲 Atualmente trabalho com análise de dados.
-- 💻 Sou estudante de Data Sciente, com foco em inteligência de negócio.
+- 🎲 Sou analista de dados, especialista em Power BI e me aventuro na engenharia de dados.
 - ⚡ Tenho sede de resolver problemas, e muito mais de evita-los.
 - ☕ Adoro café, música e piadas de tiozão! (Vou ser o tio do pavê)
 
